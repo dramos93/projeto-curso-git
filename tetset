@@ -1,0 +1,35 @@
+[33mcommit 72af88ddb1468a004514d2cff6619825b04734da[m[33m ([m[1;36mHEAD -> [m[1;32mcontato[m[33m, [m[1;31morigin/contato[m[33m)[m
+Author: Daniel Silva Ramos <daniel.ramos@hbsis.com.br>
+Date:   Sat May 23 15:44:16 2020 -0300
+
+    criado estrutura hmtl contato
+
+ contato.html | 14 [32m++++++++++++++[m
+ 1 file changed, 14 insertions(+)
+
+[33mcommit 2c4f6e5cedd7f89fc9a350ca530a021b9b751c67[m
+Author: Daniel Silva Ramos <daniel.ramos@hbsis.com.br>
+Date:   Sat May 23 15:33:48 2020 -0300
+
+    criando arquivo html de contato
+
+ contato.html | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 901880f22b1f421ce5b8c097ba86f8883187dd72[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Daniel Silva Ramos <daniel.ramos@hbsis.com.br>
+Date:   Sat May 23 12:43:31 2020 -0300
+
+    adicionando estrutura html inicial
+
+ index.html | 14 [32m++++++++++++++[m
+ 1 file changed, 14 insertions(+)
+
+[33mcommit 6765f82efa59f90f3c9f8b831ccb223af13217b4[m
+Author: Daniel Silva Ramos <daniel.ramos@hbsis.com.br>
+Date:   Fri May 22 16:34:56 2020 -0300
+
+    new file index.html
+
+ index.html | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
